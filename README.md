@@ -1,4 +1,5 @@
-# Hello ! i am a teenage kid from iran that is going to be a hacker ;)
+# Hello ! 
+# I am a teenage kid from iran that is going to be a hacker ;)
 ###  learning CCNA
 
 ---
