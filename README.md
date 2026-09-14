@@ -1,13 +1,13 @@
 # Hello ! 
 ## I am a teenage kid from iran that is going to be a hacker  ;)
-###  learning CCNA
+###  Learning CCNA
 
 ---
 
 ### Thing's I Know
 <p align="left">
   <img src="https://img.shields.io/badge/Networking-00599C?style=for-the-badge&logo=esphome&logoColor=white" alt="Networking" />
-  <img src="https://img.shields.io/badge/CCNA-045FB4?style=for-the-badge&logo=cisco&logoColor=white" alt="CCNA" />
+  <img src="https://img.shields.io/badge/Learning...-045FB4?style=for-the-badge&logo=cisco&logoColor=white" alt="Learning..." />
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Kali Linux-26272B?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux" />
